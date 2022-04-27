@@ -11,9 +11,10 @@
 
 ### Features
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [ ] Tela de Login
+- [ ] Tela de Ingressos
+- [ ] Dashboard
+- [ ] Login com JWT
 
 ### 🛠 Tecnologias
 
