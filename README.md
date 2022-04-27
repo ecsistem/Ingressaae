@@ -5,7 +5,7 @@
 <p align="center">🚀 Sistema de venda de Ingresso</p>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Ingressaê 🚀 Em construção...  🚧
 </h4>
 
 
