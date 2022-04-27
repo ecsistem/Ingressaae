@@ -15,6 +15,7 @@
 - [ ] Tela de Ingressos
 - [ ] Dashboard
 - [ ] Login com JWT
+- [x] Use NPKILL to delete o node_modules
 
 ### 🛠 Tecnologias
 
@@ -37,6 +38,9 @@ $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
+
+# Crie um .env
+$ copy
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
 
