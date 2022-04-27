@@ -44,12 +44,12 @@ $ npm run dev
 ---
 
 <a href="https://intagrem.com/ofc_edson_costa/">
- <img style="border-radius: 50%;" src="https://github.com/ecsistem.png" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61160635?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Edson Costa</b></sub></a> <a href="https://intagrem.com/ofc_edson_costa/" title="">🚀</a>
+ <sub><b>Edson Costa</b></sub></a> <a href="https://instagram.com/ofc_edson_costa/" title="">🚀</a>
 
 
 Feito com ❤️ por Edson Costa 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Edson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev_edson_costa/)](https://www.linkedin.com/in/dev_edson_costa/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Edson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsoncostadev/)](https://www.linkedin.com/in/edsoncostadev/) 
 [![Gmail Badge](https://img.shields.io/badge/-edson.13.10.2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edson.13.10.2004@gmail.com)](mailto:edson.13.10.2004@gmail.com)
