@@ -44,7 +44,7 @@ $ npm run dev
 ---
 
 <a href="https://intagrem.com/ofc_edson_costa/">
- <img style="border-radius: 50%;" src="hhtps://github.com/ecsistem.png" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://github.com/ecsistem.png" width="100px;" alt=""/>
  <br />
  <sub><b>Edson Costa</b></sub></a> <a href="https://intagrem.com/ofc_edson_costa/" title="">🚀</a>
 
