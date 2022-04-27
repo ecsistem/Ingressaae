@@ -39,3 +39,17 @@ $ npm install
 $ npm run dev
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
+
+### Autor
+---
+
+<a href="https://intagrem.com/ofc_edson_costa/">
+ <img style="border-radius: 50%;" src="hhtps://github.com/ecsistem" width="100px;" alt=""/>
+ <br />
+ <sub><b>Edson Costa</b></sub></a> <a href="https://intagrem.com/ofc_edson_costa/" title="">🚀</a>
+
+
+Feito com ❤️ por Edson Costa 👋🏽 Entre em contato!
+
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev_edson_costa/)](https://www.linkedin.com/in/dev_edson_costa/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edson.13.10.2004@gmail.com)](mailto:edson.13.10.2004@gmail.com)
