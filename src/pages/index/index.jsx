@@ -1,15 +1,18 @@
 import React, {useState} from 'react'
-import LogoComponet from '../../components/logo'
+import HeaderComponet from '../../components/header'
+import FilterCategory from '../../components/filterCategory'
+import CardData from '../../components/CardData'
 import '../../assets/styles/global/global.css'
+import './index.css'
+
 
 function App() {
     const [count, setCount] = useState(1)
-  
     return (
       <div className="App">
-        <header className="App-header">
-          <LogoComponet/>
-          <p>Hello Vite + React!</p>
+          <HeaderComponet/>
+          <FilterCategory/>
+          <CardData/>
           <p>
             <button type="button" onClick={() => setCount((count) => count + 1)}>
               count is: {count}
@@ -37,10 +40,9 @@ function App() {
               Vite Docs
             </a>
           </p>
-        </header>
+
       </div>
     )
   }
   
   export default App
-  
