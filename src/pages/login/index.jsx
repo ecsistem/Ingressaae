@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import HeaderComponent from '../../components/header';
 import FilterCategory from '../../components/filterCategory';
 import CardData from '../../components/CardData';
-import './index.css';
 
 export function App() {
   const [count, setCount] = useState(1);
@@ -42,5 +41,3 @@ export function App() {
     </div>
   );
 }
-
-export default App;

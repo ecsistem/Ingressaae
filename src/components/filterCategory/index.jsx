@@ -6,7 +6,7 @@ function FilterCategory() {
         <div className="Flex">
           <span>teste</span>
           <select name="select">
-            <option value="all" selected>
+            <option defaultValue="all">
               Todos
             </option>
             <option value="valor2">Valor 2</option>
@@ -17,7 +17,7 @@ function FilterCategory() {
         <div className="Flex">
           <span>teste</span>
           <select name="select">
-            <option value="all" selected>
+          <option defaultValue="all">
               Todos
             </option>
             <option value="valor2">Valor 2</option>
@@ -28,7 +28,7 @@ function FilterCategory() {
         <div className="Flex">
           <span>teste</span>
           <select name="select">
-            <option value="all" selected>
+          <option defaultValue="all">
               Todos
             </option>
             <option value="valor2">Valor 2</option>
