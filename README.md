@@ -36,11 +36,13 @@ $ cd Ingressaê
 # Instale as dependências
 $ npm install
 
+# Crie o .env
+$  ren .env.exemplo .env
+
+# Altere os valores do .env 
+
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
-
-# Crie um .env
-$ copy
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
 
